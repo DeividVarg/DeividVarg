@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **deividjvargas30@gmail.com**
 
-- ⚡ Fun fact **I like coffe**
+- ⚡ Fun fact **I like coffe and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
