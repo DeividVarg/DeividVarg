@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deivid Vargas</h1>
-[github-header-image](https://github.com/user-attachments/assets/775ce53c-aec9-4d15-8f99-8bc3f82514f2)
+![Header](https://github.com/user-attachments/assets/775ce53c-aec9-4d15-8f99-8bc3f82514f2)
 
 <h3 align="center">I'm a passionate full stack developer</h3>
 
