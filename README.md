@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/775ce53c-aec9-4d15-8f99-8bc3f82514f2"/>
+<img src="https://github.com/user-attachments/assets/0c2374d4-205f-49cb-ae9c-33a88b9557ea"/>
 
 - 🌱 I’m currently learning **React, React native**
 
