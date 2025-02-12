@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/0c2374d4-205f-49cb-ae9c-33a88b9557ea"/>
 
 <p><img src = "https://media.tenor.com/mMkJeuyHkRYAAAAj/cat-cat-on-computer.gif"  height = "50" width="60"/>  Hi 👋​, my name is Deivid Vargas i'm a passionate developer , i like the programing and tecnology ​🖥️​ That's why I always keep learning new things.<img src = "https://i.gifer.com/JLo.gif"  height = "40" width="50"/></p>
-- 🌱 I’m currently learning <div><img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/> <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></div>
+- 🌱 I’m currently learning <div><img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></div>
 
 - 💬 Ask me about **web development, python, java Script and programming news**
 
@@ -24,6 +24,8 @@
 <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src = "https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white"/>
+<img src = "https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css&logoColor=white"/>
 </div>
 
 
