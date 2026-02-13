@@ -1,9 +1,9 @@
 <img src="https://github.com/user-attachments/assets/0c2374d4-205f-49cb-ae9c-33a88b9557ea"/>
 
 <p><img src = "https://media.tenor.com/mMkJeuyHkRYAAAAj/cat-cat-on-computer.gif"  height = "50" width="60"/>  Hi 👋​, my name is Deivid Vargas i'm a passionate developer , i like the programing and tecnology ​🖥️​ That's why I always keep learning new things.<img src = "https://i.gifer.com/JLo.gif"  height = "40" width="50"/></p>
-- 🌱 I’m currently learning <div><img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src = "https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/> <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></div>
+- 🌱 I’m currently learning 
 
-- 💬 Ask me about **web development, python, java Script and programming news**
+- 💬 Ask me about **web development, python, JavaScript, TypeScript and programming news**
 
 - 📫 How to reach me **deividjvargas30@gmail.com**
 
@@ -27,6 +27,8 @@
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+<div><img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src = "https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/> <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></div>
 </div>
 
 
