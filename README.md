@@ -1,7 +1,6 @@
 <img src="https://github.com/user-attachments/assets/0c2374d4-205f-49cb-ae9c-33a88b9557ea"/>
 
 <p><img src = "https://media.tenor.com/mMkJeuyHkRYAAAAj/cat-cat-on-computer.gif"  height = "50" width="60"/>  Hi 👋​, my name is Deivid Vargas i'm a passionate developer , i like the programing and tecnology ​🖥️​ That's why I always keep learning new things.<img src = "https://i.gifer.com/JLo.gif"  height = "40" width="50"/></p>
-- 🌱 I’m currently learning 
 
 - 💬 Ask me about **web development, python, JavaScript, TypeScript and programming news**
 
